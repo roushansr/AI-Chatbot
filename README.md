@@ -2,19 +2,19 @@
 # How to run
 ### Steps
 
-'''bash
+```bash
 Project repo: https://github.com/
-'''
+```
 
-'''bash
+```bash
 conda create -n medibot python=3.8 -y
-'''
+```
 
-'''bash
+```bash
 conda activate medibot
-'''
+```
 
 ### Step 2- install the Requirement
-'''bash
+```bash
 pip install -r requirements.txt
-'''
+```
