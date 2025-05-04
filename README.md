@@ -17,4 +17,8 @@ conda activate medibot
 ### Step 2- install the Requirement
 ```bash
 pip install -r requirements.txt
+<<<<<<< HEAD
 ```
+=======
+```
+>>>>>>> c2582dd (README.md)
